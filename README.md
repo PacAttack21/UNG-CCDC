@@ -1,2 +1,2 @@
 # UNG-CPTC
-This is UNG's public CCDC repository
+This is UNG's public CPTC repository
